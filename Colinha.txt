@@ -1,0 +1,23 @@
+
+Installar o pacote globalmente
+    $ npm install -g @angular/cli
+    $ npm install -g @angular/cli@latest
+Verificar a versão
+    $ ng version
+    $ ng --version
+
+Criar o projeto
+    $ ng new crud-angular
+Rodar o projeto
+    $ ng serve
+
+Instalar o angular material: https://material.angular.io/guide/getting-started
+    $ ng add @angular/material
+
+Criação de módulos: https://angular.io/docs
+    $ ng g m courses
+    $ ng g m courses --routing
+
+Criar um component
+    $ ng g c courses/courses
+
